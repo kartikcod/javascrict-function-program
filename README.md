@@ -4,4 +4,5 @@
    <li>mul.js</li>
    <li>sum.js</li>
    <li>substraction.js</li>
+    <li>div.js</li>
 </ul>
